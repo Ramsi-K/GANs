@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-02-22T14:47:47.084538",
+    "startedAt": "2024-02-22T14:47:44.380560",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Ramsi-K/GANs.git",
+        "commit": "d064e6e3a59f0a1cb792e554e9c6c04f2ffacbca"
+    },
+    "email": "ramsi.kalia@gmail.com",
+    "root": "C:/Users/ramsi/OneDrive/Documents/Github Projects/GANs",
+    "host": "Ramsi",
+    "username": "ramsi",
+    "executable": "c:\\Users\\ramsi\\anaconda3\\envs\\pytorch_env\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2300.0,
+        "min": 0.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300.0,
+            "min": 0.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 952.8310508728027,
+            "used": 326.84860610961914
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.675647735595703
+    }
+}
